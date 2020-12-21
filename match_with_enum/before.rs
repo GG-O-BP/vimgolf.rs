@@ -1,6 +1,6 @@
 enum Coin {
-    Penny,
-    Nickel,
-    Dime,
-    Quarter,
+	Penny,
+	Nickel,
+	Dime,
+	Quarter,
 }
