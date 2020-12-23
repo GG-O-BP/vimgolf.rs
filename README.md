@@ -12,7 +12,7 @@ Abstract maxima of arrays
 https://www.vimgolf.com/challenges/5fe1bf8ef5abb00006be4056
 <br>
 <br>
-version_to_last
+Cargo.toml version to last
 <br>
 http://www.vimgolf.com/challenges/5fe326eb11ba250006cbf2cd
 <br>
